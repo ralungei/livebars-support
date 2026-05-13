@@ -14,4 +14,6 @@ Need help, found a bug, or have feedback? Reach out and I'll get back within 24â
 
 Your data lives in your private iCloud account, encrypted end to end. No server, no third parties, no analytics, no ads.
 
+Full policy: [Privacy Policy](privacy.html)
+
 â€” Ras Alungei
